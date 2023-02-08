@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c3071157e744f54cbab209ebd366cad, type: 3}
+  m_Name: BloodWeapon
+  m_EditorClassIdentifier: 
+  objectName: Maza de sangre
+  objectIcon: {fileID: 21300000, guid: 26ee88fbc5902ee4ba592d672293325d, type: 3}
+  model3D: {fileID: 1854720754721900251, guid: cd129f656ecb0a543aba3aec71bf1158, type: 3}
