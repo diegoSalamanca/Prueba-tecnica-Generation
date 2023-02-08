@@ -1,4 +1,6 @@
 
+/*Code by Diego Salamanca for Generation and BIT technical test
+Contact Email:  Diegocolmayor@gmail.com*/
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "InventoryObject", menuName = "ScriptableObjects/InventoryObject", order = 1)]

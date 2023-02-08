@@ -1,5 +1,5 @@
-using System.Collections;
-using System.Collections.Generic;
+/*Code by Diego Salamanca for Generation and BIT technical test
+Contact Email:  Diegocolmayor@gmail.com*/
 using UnityEngine;
 
 public class GameManager : MonoBehaviour
@@ -9,11 +9,5 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         messageManager.SetMessage("Encuentra la salida");
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }

@@ -1,4 +1,5 @@
-/*Code by Diego Salamanca for BIT technical test*/
+/*Code by Diego Salamanca for Generation and BIT technical test
+Contact Email:  Diegocolmayor@gmail.com*/
 
 using UnityEngine;
 

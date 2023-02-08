@@ -1,5 +1,5 @@
-using System.Collections;
-using System.Collections.Generic;
+/*Code by Diego Salamanca for Generation and BIT technical test
+Contact Email:  Diegocolmayor@gmail.com*/
 using UnityEngine;
 
 public class MessageManager : MonoBehaviour

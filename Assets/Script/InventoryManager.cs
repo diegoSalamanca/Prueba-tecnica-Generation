@@ -1,4 +1,5 @@
-using System.Collections;
+/*Code by Diego Salamanca for Generation and BIT technical test
+Contact Email:  Diegocolmayor@gmail.com*/
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -21,6 +22,4 @@ public class InventoryManager : MonoBehaviour
 
         btn.GetComponent<InventoryButton>().SetProperties(item);
     }
-        
-    
 }
